@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "SoftControl Search",
+                "mnemonic": "f",
+                "id": "softcontrol",
+                "children":
+                [
+                    {
+                        "command": "softcontrol_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "softcontrol_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

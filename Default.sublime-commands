@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "SoftControl: Search Selection",
+        "command": "softcontrol_search_selection"
+    },
+    {
+        "caption": "SoftControl: Search from Input",
+        "command": "softcontrol_search_from_input"
+    }
+]
